@@ -1,0 +1,4 @@
+telhado
+parede
+madeira
+cimento
