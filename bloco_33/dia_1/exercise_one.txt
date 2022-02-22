@@ -1,0 +1,41 @@
+Exercício 1: Em um contexto de orientação a objetos, como podemos definir o que são mensagens e qual a sua importância?
+
+R: Mensagens são a forma que classes se comunicam. Quando uma classe precisa fazer algo com a outra envia uma mensagem, executando um método da outra classe. É importante pois é a forma de se trabalhar com as informações de uma classe, modificando-as ou usando-as.
+
+Exercício 2:
+Nome:
+  Retângulo
+
+atributos:
+  - base
+  - altura
+
+comportamentos:
+  - calcular area ( base * altura )
+  - calcular perímetro ( 2 * base + 2 * altura )
+
+
+Exercício 3:
+Nome:
+  Retângulo
+
+atributos:
+  - raio
+
+comportamentos:
+  - calcular diâmetro ( raio * 2 )
+  - calcular area
+  - calcular circunferência
+
+
+Exercício 4:
+Nome:
+  Pedido
+
+Atributos:
+  - itens
+
+comportamentos:
+  - adicionar item
+  - remover item
+  - calcular preço total
