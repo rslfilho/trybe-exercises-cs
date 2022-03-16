@@ -1,0 +1,19 @@
+Exercício 01: Errei =(
+Melhor caso: 0(1)
+Caso médio: 0(n)
+Pior caso: 0(n)
+
+Exercício 02: Acertei =)
+Tempo: 0(1)
+Espaço: 0(1)
+
+Exercício 03: Acertei =D
+OC: 0(n)
+
+Exercício 04: Acertei
+OC: 0(n)
+
+Exercício 05:
+Tempo: 0(n)
+Espaço: 0(1)
+
